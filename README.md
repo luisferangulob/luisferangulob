@@ -11,6 +11,15 @@ Computational researcher interested in using statistics, machine learning, and s
 </div>
 
 
+<br>
+
+## About Me
+
+- 🎓 Senior at the **University of Arizona** studying **Statistics & Data Science**, with minors in **Computer Science** and **Microbiology**.
+- 🔬 Computational researcher developing stochastic models of **3D root architecture** and analyzing large-scale simulations.
+- 🧬 Interested in **statistical machine learning, survival analysis, biomedical data, scientific computing, and computational biology**.
+- 💻 I enjoy building projects that combine **mathematics, statistics, programming, and biology**.
+
 
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
