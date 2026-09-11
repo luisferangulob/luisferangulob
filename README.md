@@ -1,4 +1,16 @@
-## Hi there 👋
+<div align="center">
+
+# Luis Fernando Angulo
+
+### Statistics & Data Science • Machine Learning • Scientific Computing
+
+**University of Arizona**
+
+Computational researcher interested in using statistics, machine learning, and scientific computing to study complex biological and biomedical systems.
+
+</div>
+
+
 
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
