@@ -21,6 +21,39 @@ Computational researcher interested in using statistics, machine learning, and s
 - 💻 I enjoy building projects that combine **mathematics, statistics, programming, and biology**.
 
 
+
+<br>
+
+## Featured Research
+
+### 🌱 3D Root Architecture Simulation
+
+**Computational Plant Science Laboratory · University of Arizona**
+
+Developing a stochastic framework for generating and analyzing three-dimensional root architectures using local coordinate systems, quaternion-based transformations, branching, self-avoidance, and large-scale Monte Carlo simulation.
+
+<table>
+<tr>
+<td align="center">
+<strong>4.9M+</strong><br>
+Monte Carlo Simulations
+</td>
+<td align="center">
+<strong>24,503</strong><br>
+Parameter Configurations
+</td>
+<td align="center">
+<strong>130+</strong><br>
+Statistics per Simulation
+</td>
+</tr>
+</table>
+
+**Tools:** `Python` · `NumPy` · `Scientific Computing` · `Monte Carlo` · `HPC` · `Git`
+
+[**3D Root Architecture Simulator →**](https://github.com/luisferangulob/3d-root-architecture-simulator)  
+[**Interactive Root Visualizer →**](https://github.com/luisferangulob/root-architecture-visualizer)
+
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
