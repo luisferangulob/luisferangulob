@@ -72,6 +72,16 @@ Built to turn simulation outputs into a more intuitive environment for inspectin
 
 [**View Repository →**](https://github.com/luisferangulob/root-architecture-visualizer)
 
+<br>
+
+### 🧬 Glioblastoma Survival Analysis
+
+Analysis of clinical and survival data from **The Cancer Genome Atlas (TCGA)** for patients with glioblastoma.
+
+Cleaned and structured patient-level clinical data to examine survival outcomes, censoring, demographic characteristics, and variables relevant to biomedical prognosis.
+
+**Tools:** `Python` · `pandas` · `Survival Analysis` · `Biomedical Data` · `Data Cleaning`
+
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
