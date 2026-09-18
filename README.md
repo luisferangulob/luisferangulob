@@ -71,6 +71,10 @@ Interactive application for exploring and comparing simulated three-dimensional 
 
 Built to turn simulation outputs into a more intuitive environment for inspecting root geometry, parameter configurations, and statistical measurements.
 
+<p align="center">
+  <img src="App.gif" alt="Animated preview of the Root Architecture Visualizer app" width="700">
+</p>
+
 **Tools:** `Python` · `Streamlit` · `Data Visualization` · `Scientific Computing`
 
 [**View Repository →**](https://github.com/luisferangulob/root-architecture-visualizer)
