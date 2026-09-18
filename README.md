@@ -58,6 +58,20 @@ Statistics per Simulation
 [**3D Root Architecture Simulator →**](https://github.com/luisferangulob/3d-root-architecture-simulator)  
 [**Interactive Root Visualizer →**](https://github.com/luisferangulob/root-architecture-visualizer)
 
+<br>
+
+## Selected Projects
+
+### 📊 Root Architecture Visualizer
+
+Interactive application for exploring and comparing simulated three-dimensional root architectures and their quantitative characteristics.
+
+Built to turn simulation outputs into a more intuitive environment for inspecting root geometry, parameter configurations, and statistical measurements.
+
+**Tools:** `Python` · `Streamlit` · `Data Visualization` · `Scientific Computing`
+
+[**View Repository →**](https://github.com/luisferangulob/root-architecture-visualizer)
+
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
