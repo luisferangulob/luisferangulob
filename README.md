@@ -2,7 +2,10 @@
 
 # Luis Fernando Angulo
 
-### Statistics & Data Science • Machine Learning • Scientific Computing
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Statistics+%26+Data+Science;Machine+Learning+%26+Scientific+Computing;Biomedical+Data+%26+Computational+Biology"
+  alt="Typing animation"
+/>
 
 **University of Arizona**
 
