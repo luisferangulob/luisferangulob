@@ -32,6 +32,10 @@ Computational researcher interested in using statistics, machine learning, and s
 
 Developing a stochastic framework for generating and analyzing three-dimensional root architectures using local coordinate systems, quaternion-based transformations, branching, self-avoidance, and large-scale Monte Carlo simulation.
 
+<p align="center">
+  <img src="root-architecture.png" alt="3D root architecture simulation" width="800">
+</p>
+
 <table>
 <tr>
 <td align="center">
