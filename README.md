@@ -82,6 +82,23 @@ Cleaned and structured patient-level clinical data to examine survival outcomes,
 
 **Tools:** `Python` · `pandas` · `Survival Analysis` · `Biomedical Data` · `Data Cleaning`
 
+<br>
+
+## Technical Skills
+
+**Programming & Data**  
+`Python` · `R` · `SQL` · `NumPy` · `pandas` · `scikit-learn`
+
+**Statistical & Computational Methods**  
+`Statistical Modeling` · `Machine Learning` · `Survival Analysis` · `Monte Carlo Simulation` · `Data Visualization`
+
+**Scientific Computing**  
+`High-Performance Computing` · `Linux` · `Git` · `GitHub` · `Streamlit`
+
+**Domains**  
+`Biomedical Data Science` · `Computational Biology` · `Scientific Computing`
+
+
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
