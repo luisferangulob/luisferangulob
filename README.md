@@ -73,7 +73,6 @@ Built to turn simulation outputs into a more intuitive environment for inspectin
 [**View Repository →**](https://github.com/luisferangulob/root-architecture-visualizer)
 
 <br>
-
 ### 🧬 Glioblastoma Survival Analysis
 
 Analysis of clinical and survival data from **The Cancer Genome Atlas (TCGA)** for patients with glioblastoma.
