@@ -89,18 +89,30 @@ Cleaned and structured patient-level clinical data to examine survival outcomes,
 
 ## Technical Skills
 
-**Programming & Data**  
-`Python` · `R` · `SQL` · `NumPy` · `pandas` · `scikit-learn`
+### Programming & Data
 
-**Statistical & Computational Methods**  
-`Statistical Modeling` · `Machine Learning` · `Survival Analysis` · `Monte Carlo Simulation` · `Data Visualization`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Scientific Computing**  
-`High-Performance Computing` · `Linux` · `Git` · `GitHub` · `Streamlit`
+### Tools & Scientific Computing
 
-**Domains**  
-`Biomedical Data Science` · `Computational Biology` · `Scientific Computing`
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### Methods & Domains
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
+![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-6F42C1?style=for-the-badge)
+![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-2E8B57?style=for-the-badge)
+![Biomedical Data](https://img.shields.io/badge/Biomedical%20Data-B03060?style=for-the-badge)
+![Computational Biology](https://img.shields.io/badge/Computational%20Biology-228B22?style=for-the-badge)
 
 <!--
 **luisferangulob/luisferangulob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
